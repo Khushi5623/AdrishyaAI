@@ -1,42 +1,101 @@
-# 🚨 AdrishyaAI – Women Safety AI Platform
+# 🚨 AdrishyaAI – AI-Powered Women Safety Platform
 
-AdrishyaAI is an AI-powered safety platform designed to enhance women's security using smart technology, real-time alerts, and community support.
+AdrishyaAI is a secure and anonymous platform that helps invisible and vulnerable people report abuse and unsafe practices using AI.
 
 ---
 
-## 🌟 Features
+## 🌟 Key Features
 
-- 🚨 SOS Emergency Button
-- 🗺️ Live Location Tracking
-- 💬 Chat Support System
-- 🎤 Voice Assistance
-- 📊 Crime Heatmap Visualization
-- 📈 Impact Analytics Dashboard
-- 🔐 Security & Legal Resources
+- 🎙️ Anonymous & Audio Complaints  
+- 🤖 AI Smart Report Assist  
+- 💬 Voice & Chat Support  
+- ⚖️ Legal Rights Chatbot (LLM)  
+- 🤝 AI Volunteer System  
+- 🗺️ Abuse Heatmap  
+- 🚨 SOS + Helpline Support  
+- ⭐ Trust & Reputation Score  
+
+---
+
+## ⚙️ Working Flow
+
+Report → Supabase → AI Analysis → Legal Help → Heatmap → SOS
+
+---
+
+## 💡 Why AdrishyaAI?
+
+- AI + Safety + Mapping in one platform  
+- Voice-enabled accessibility  
+- Real-time risk detection  
+- Actionable insights  
+
+---
+
+## 🎯 Market Fit
+
+### 👥 Who Uses AdrishyaAI?
+- Corporate Employees  
+- Women Workforce  
+- Night Shift Workers  
+- NGOs & Authorities  
+
+### 📍 Where It Works
+- Workplace Safety  
+- Women Protection  
+- Labor Welfare  
+- Smart City Programs  
+
+### ❗ Why It Matters
+- Low Reporting  
+- Unsafe Conditions  
+- No Safety Data  
+- Lack of Awareness  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- ⚛️ React + TypeScript
-- ⚡ Vite
-- 🎨 Tailwind CSS
-- 🧩 shadcn-ui
-- 🗄️ Supabase (Backend)
+### 🎨 Frontend
+- React.js  
+- TypeScript  
+- Tailwind CSS  
+- Framer Motion  
+
+### ⚙️ Backend & Database
+- Node.js / Next.js  
+- Supabase  
+- PostgreSQL  
+
+### 🤖 AI & LLM
+- LLM via Thunder Client  
+- AI Report Analysis  
+- Legal Rights Chatbot  
+- Voice AI Support  
+
+### 📊 Data Processing
+- Hugging Face API  
+- Kaggle Dataset  
+- Abuse Pattern Mapping  
+
+---
+
+## 🏗️ System Architecture
+
+- User Interface (Web App)  
+- Authentication & Security Layer  
+- Supabase Database  
+- AI Processing Layer  
+- Heatmap Engine  
+- Trust Score Engine  
+- Dashboard & Insights  
 
 ---
 
 ## 🚀 How to Run Locally
 
 ```bash
-# Clone the repository
 git clone https://github.com/Khushi5623/AdrishyaAI.git
-
-# Go into project folder
 cd AdrishyaAI
-
-# Install dependencies
 npm install
-
-# Run the project
 npm run dev
