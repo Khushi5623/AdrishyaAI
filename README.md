@@ -1,4 +1,4 @@
-# 🚨 AdrishyaAI – AI-Powered Women Safety Platform
+# 🚨 AdrishyaAI – AI-Powered Safety Web App 
 
 AdrishyaAI is a secure and anonymous platform that helps invisible and vulnerable people report abuse and unsafe practices using AI.
 
